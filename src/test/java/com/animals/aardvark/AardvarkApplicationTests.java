@@ -11,6 +11,4 @@ public class AardvarkApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	}
-
-}
+	}}
