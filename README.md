@@ -10,7 +10,7 @@ service projects.
 
 ## Development
 
-This project is driven using [Maven][mvn].
+This project is driven using [Maven][mvn].x
 
 [mvn]: https://maven.apache.org/
 
