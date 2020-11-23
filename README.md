@@ -1,4 +1,4 @@
-# spring-rest-seed
+# spring-rest-seed 
 
 [![Build Status](https://travis-ci.org/atomist-seeds/spring-rest-seed.svg?branch=master)](https://travis-ci.org/atomist-seeds/spring-rest-seed)
 
