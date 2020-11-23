@@ -4,6 +4,7 @@
 
 [boot]: https://projects.spring.io/spring-boot/
 [rest]: https://en.wikipedia.org/wiki/Representational_state_transfer
+
 x
 This project is a seed for creating [Spring Boot][boot] [REST][rest]
 service projects.
@@ -25,7 +26,7 @@ $ ./mvnw spring-boot:run
 ### Run tests
 
 This service comes with some rudimentary tests as a good starting
-point for writing your own.  Use the following command to execute the
+point for writing your own. Use the following command to execute the
 tests using Maven:
 
 ```
@@ -33,8 +34,9 @@ $ ./mvnw test
 ```
 
 ---
+
 Created by [Atomist][atomist].
-Need Help?  [Join our Slack team][slack].
+Need Help? [Join our Slack team][slack].
 
 [atomist]: https://www.atomist.com/
 [slack]: https://join.atomist.com/
