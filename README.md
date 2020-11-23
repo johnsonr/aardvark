@@ -5,7 +5,7 @@
 [boot]: https://projects.spring.io/spring-boot/
 [rest]: https://en.wikipedia.org/wiki/Representational_state_transfer
 
-This project is a seed for creating [Spring Boot][boot] [REST][rest]
+This project is a seed for creating [Spring Boot][boot] [REST][rxest]
 service projects.
 
 ## Development
